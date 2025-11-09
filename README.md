@@ -1,4 +1,4 @@
-![Preview Image](https://raw.githubusercontent.com/idbp/lms/refs/heads/main/IMG-20251109-WA0001.jpg)
+![Preview Image](https://raw.githubusercontent.com/idbp/lms/refs/heads/main/img.png)
 # نظام إدارة المعاهد والدورات التدريبية
 
 نظام رقمي متكامل يهدف إلى تطوير تجربة إدارة المعاهد التعليمية ومراكز التدريب، من خلال أدوات ذكية تسهّل تنظيم الدورات، تسجيل المتدربين، متابعة الأداء، وإصدار التقارير.
